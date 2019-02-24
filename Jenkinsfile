@@ -1,5 +1,6 @@
 // start of pipeline
 // un commentaire
+// un deuxième commentire
 pipeline {
   // where pipeline job will run
   agent {
